@@ -1,0 +1,7 @@
+Criar uma calculadora de média:
+
+* Inserir nome da atividade;
+* Inserir nota da atividade;
+* Inserir Botão de adcionar mais atividade;
+* Criar uma lista com (nome da atividade, nota e aprovado?)
+* Colocar emojis criativos para (aprovado, reprovado e recuperação)

@@ -1,0 +1,58 @@
+body {
+  font-family: Montserrat, sans-serif;
+  background-image: url(./photos/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+header {
+  margin: 20px 0;
+}
+
+h1 {
+  width: 455px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+  padding-left: 6px;
+}
+
+table {
+  max-width: 100vw;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  margin: 5px;
+}
+
+#result-image {
+  height: 40px;
+  width: 40px;
+  margin: 10px auto;
+  display: block;
+}
