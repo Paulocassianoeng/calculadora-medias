@@ -55,10 +55,10 @@ function calculateAverage() {
     // Exibe a imagem de aprovado ou reprovado.
     const resultImage = document.getElementById("result-image");
     if (average >= 6) {
-      resultImage.src = "./images/images/aprovado.png";
+      resultImage.src = "./images/aprovado.png";
       resultImage.alt = "Aprovado";
     } else {
-      resultImage.src = "./images/images/reprovado.png";
+      resultImage.src = "./images/reprovado.png";
       resultImage.alt = "Reprovado";
     }
     resultImage.style.display = "block";
